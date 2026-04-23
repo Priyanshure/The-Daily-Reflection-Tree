@@ -34,7 +34,3 @@ Every leaf has two fixed components:
 This agent is a **finite-state machine**, not an LLM.  
 It requires no API key, no prompt engineering, and no temperature tuning.  
 It is 100% reproducible and verifiable – suitable for high-stakes reflection.
-
-## How to Run
-```bash
-python agent.py
